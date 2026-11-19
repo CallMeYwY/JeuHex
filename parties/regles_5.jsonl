@@ -1,0 +1,300 @@
+{"taille": 5, "coups": ["D2", "echange", "E3", "C3", "D3", "C4", "D4", "B5", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "C3", "C4", "D3", "D4", "E3", "B4", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D4", "echange", "B4", "C5", "C4", "D3", "C3", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E1", "C4", "D2", "D4", "C3", "B4", "B3", "A4", "E3", "E4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E3", "E2", "D4", "D3", "C4", "C3", "C5", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A2", "A3", "C3", "B3", "C2", "B2", "C1", "B4", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D2", "echange", "B4", "C3", "C4", "D3", "D4", "D1", "A4", "E3", "E4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E4", "E1", "E3", "D2", "D3", "C2", "C3", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D3", "echange", "C1", "D1", "D2", "D4", "C2", "E1", "E2", "C3", "B2", "A2", "A3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A1", "A4", "A2", "B3", "B2", "C3", "C2", "D2", "E1", "E2"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C3", "echange", "D5", "A5", "B4", "A4", "C5", "B3", "C1", "E1", "D2", "E2", "D3", "C2", "D1", "E3", "C4", "B2", "B1", "A2", "A1", "E4", "E5"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D2", "echange", "D3", "C3", "E2", "C4", "D4", "B5", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B5", "C2", "C4", "D2", "D3", "E2", "B4", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A4", "A5", "A3", "B5", "B4", "C5", "A2", "D4", "E3", "E4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D2", "echange", "B3", "C3", "A3", "D1", "B4", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "A3", "C4", "B3", "C3", "C2", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D2", "echange", "E3", "C3", "D3", "C4", "D4", "C5", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E1", "C5", "A5", "C3", "D1", "B3", "D2", "D3", "C2", "A3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A4", "A5", "A3", "B5", "B2", "C5", "C1", "D5", "E4", "E5"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B5", "C3", "C4", "D3", "B4", "B3", "D4", "E2", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "C4", "D4", "B4", "D3", "C3", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D1", "B3", "C2", "C3", "D2", "D3", "B2", "A3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C4", "echange", "B3", "D3", "A3", "B5", "C3", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "C4", "D4", "D3", "E3", "E2", "B3", "B4", "A4", "A5"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D4", "echange", "C1", "E1", "B1", "E2", "D1", "D3", "C5", "D5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A2", "A3", "C3", "B3", "C2", "B2", "D1", "B4", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C2", "echange", "B4", "B3", "A5", "C3", "C4", "D1", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D3", "echange", "D4", "C4", "C5", "B5", "C3", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E2", "E1", "D2", "D1", "D3", "C1", "C4", "B2", "A2", "A3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C3", "echange", "D1", "E1", "D2", "E2", "C2", "D3", "D5", "C5", "C4", "D4"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B2", "echange", "D4", "B3", "C4", "B1", "B4", "A4", "A5", "E3", "E4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C1", "B4", "B2", "A4", "C2", "C3", "D2", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C4", "echange", "B4", "C3", "B5", "C5", "A5", "C2", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B4", "echange", "B2", "C3", "C2", "B5", "D2", "D3", "E2", "A2", "A3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C4", "echange", "C3", "C5", "D3", "D4", "E3", "B4", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C3", "echange", "C1", "E1", "D2", "E2", "D1", "D3", "B4", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A3", "A4", "B2", "B4", "B3", "C3", "D3", "D2", "E1", "E2"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C4", "echange", "C2", "C5", "D2", "D3", "E1", "C3", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D2", "echange", "C1", "D1", "E3", "D3", "D4", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "D2", "D4", "E1", "C4", "C3", "B4", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B1", "B4", "A2", "A5", "B2", "C3", "C2", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B4", "echange", "D2", "B3", "E2", "C2", "D3", "A5", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A5", "D2", "A4", "C2", "A3", "E2", "B2", "B1", "C1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D3", "echange", "B2", "C4", "C1", "E1", "C2", "E2", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A1", "A4", "B1", "B3", "B2", "C2", "D2", "D1", "E1", "C3", "D3", "C4", "D4", "C5", "D5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D3", "echange", "B4", "C4", "C3", "D2", "A4", "D1", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E2", "E1", "D2", "D1", "D3", "C2", "B1", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D3", "echange", "B3", "D2", "C2", "D1", "C3", "D4", "C5", "D5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E4", "E3", "D4", "D3", "C4", "C3", "D5", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D3", "echange", "A3", "D2", "B3", "D1", "C3", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C3", "echange", "A2", "C4", "B2", "D2", "C2", "E1", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B4", "echange", "A3", "C3", "B2", "C2", "C1", "D1", "A5", "B5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D4", "echange", "B4", "D3", "C3", "D2", "C2", "D1", "C5", "D5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D5", "C1", "E1", "D1", "E2", "C3", "E3", "D4", "E4"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D2", "echange", "D4", "C3", "E4", "C4", "C5", "B5", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B5", "C1", "E1", "C2", "D2", "C3", "D3", "C4", "D4", "C5", "D5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D4", "echange", "B2", "C5", "C2", "D3", "D2", "E2", "E1", "A2", "A3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B3", "echange", "A3", "B2", "D3", "B1", "E3", "A4", "A5", "B4", "B5", "C4", "C5", "D4", "D5", "E4", "E5"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B5", "B2", "B4", "A2", "B3", "C2", "C3", "D2", "E1", "E2"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "D3", "C4", "C3", "D4", "E3", "B4", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E5", "E1", "C2", "C3", "D2", "B3", "D3", "C4", "D4", "A4", "E4", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E2", "E1", "D3", "D1", "C3", "C1", "C4", "B2", "A2", "A3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D3", "echange", "B2", "E2", "E1", "D2", "D1", "D4", "C1", "A2", "A3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B5", "E3", "C4", "D3", "C3", "D2", "C2", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C3", "echange", "D1", "E1", "D2", "E2", "C2", "D3", "B4", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D2", "echange", "C2", "E1", "B3", "D3", "C3", "D4", "C5", "D5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D4", "echange", "B4", "E3", "E2", "D3", "D2", "C3", "C2", "D5", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D2", "echange", "D3", "C3", "C4", "B4", "E3", "A5", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E3", "E1", "E2", "D2", "C4", "C2", "C5", "B2", "A2", "A3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C2", "echange", "C3", "D1", "B3", "D2", "D3", "B2", "A3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A2", "A5", "B1", "B5", "B2", "C5", "C2", "D5", "E4", "E5"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B2", "echange", "C5", "A5", "C4", "B4", "B3", "A4", "A3", "C2", "C3", "C1", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A3", "A4", "B3", "B4", "C3", "C4", "C2", "D4", "E3", "E4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B3", "echange", "C4", "B2", "D4", "C1", "B5", "A5", "A4", "B4"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B5", "C4", "B4", "D3", "C3", "D2", "C2", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E1", "B2", "D2", "A3", "D3", "B3", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C1", "B3", "B2", "A4", "C2", "C3", "D2", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D5", "D4", "E4", "E3", "C3", "C4", "D2", "B4", "A4", "A5"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A1", "A2", "C2", "B2", "D1", "B3", "C3", "B4", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E1", "D4", "D2", "C5", "A5", "B4", "A4", "B3", "A3", "C4", "B2", "B1", "C1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C3", "echange", "B3", "C2", "B4", "C4", "A4", "D1", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D4", "echange", "B4", "D5", "C3", "D3", "D2", "E2", "E1", "A4", "A5"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A1", "A2", "C4", "B1", "D1", "B2", "C2", "C3", "B3", "D2", "B4", "A5", "B5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C4", "echange", "B3", "C3", "A3", "C2", "B2", "D1", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D1", "C2", "D2", "B2", "D3", "A3", "D4", "C5", "D5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E4", "E2", "D5", "D3", "D4", "C3", "C4", "B4", "A4", "A5"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "D3", "C4", "C3", "D4", "E3", "B4", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B2", "echange", "D4", "B3", "E4", "B4", "C4", "A5", "B1", "C1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A5", "B4", "A4", "C3", "A3", "B3", "A2", "A1", "B1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E1", "E3", "C3", "D2", "C2", "D3", "C4", "D4", "C5", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D5", "B3", "E4", "E1", "D4", "D1", "C2", "C1", "D2", "B2", "A2", "A3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D5", "B2", "D4", "A3", "E3", "E1", "D3", "D2", "C2", "C3", "B3", "D1", "C1", "A4", "B4", "C4", "A5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C2", "echange", "B4", "B3", "A4", "C3", "C4", "C1", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B5", "B2", "C4", "A2", "C3", "C1", "E1", "D2", "E2", "D3", "E3", "D4", "E4", "D5", "E5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B3", "echange", "C3", "B4", "D3", "C2", "C4", "A5", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C1", "B3", "B2", "A4", "C2", "C3", "D2", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D1", "C4", "C2", "D4", "C3", "B4", "B3", "A5", "E3", "E4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A1", "A3", "C2", "B2", "C1", "B3", "C3", "B4", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B4", "echange", "D3", "C3", "E3", "A5", "D2", "C2", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A5", "B4", "A4", "B3", "A3", "C3", "B2", "B1", "C1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D4", "echange", "B3", "E3", "E1", "D3", "D1", "C2", "C1", "D2", "B2", "A2", "A3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C4", "echange", "D4", "B5", "E3", "D3", "C2", "E2", "E1", "D2", "D1", "C3", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A4", "A5", "B4", "B5", "B3", "C4", "C5", "D4", "E3", "E4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E4", "E2", "C3", "D2", "C2", "D3", "C4", "D1", "C1", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E5", "E1", "D3", "D1", "D2", "C1", "D5", "B1", "A1", "A2"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C1", "C2", "B2", "D1", "B3", "C3", "B4", "A5", "B5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D4", "echange", "D2", "D3", "E1", "C5", "C3", "C4", "B4", "A4", "A5"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D5", "C1", "D1", "D3", "C5", "C4", "D4", "E2", "C2", "B5", "A5", "B4", "A4", "B3", "A3", "B2", "A2", "A1", "B1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "A3", "D4", "B3", "D3", "C2", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D4", "echange", "B4", "C5", "C4", "D3", "C3", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D1", "C2", "D2", "B2", "D3", "C3", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C1", "C2", "B2", "D2", "B3", "C3", "B4", "A5", "B5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D5", "C5", "D4", "C4", "D3", "C3", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B1", "B4", "B2", "A4", "B3", "C3", "C2", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E1", "C5", "B5", "D5", "B4", "C3", "B3", "C4", "C2", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "D4", "C4", "D3", "C3", "E3", "C2", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C1", "B3", "C2", "C3", "B2", "A3", "D2", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E3", "E1", "D4", "D1", "D3", "C1", "C3", "B1", "A1", "A2"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A2", "A5", "B2", "B4", "B1", "C3", "C2", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A5", "E3", "C3", "B4", "C4", "A4", "B5", "B3", "C2", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "C2", "C4", "B3", "D3", "D2", "E2", "E1", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B3", "echange", "D2", "B2", "C3", "B4", "C4", "A5", "B1", "C1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E3", "E2", "D4", "D2", "D3", "C2", "C3", "B2", "A2", "A3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B4", "echange", "C3", "B3", "D2", "C2", "C4", "B5", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B1", "D4", "B2", "E4", "A3", "A5", "B3", "B4", "C4", "C3", "D3", "B5", "C5", "D2", "E1", "E2"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C2", "echange", "D3", "C3", "C4", "B4", "E2", "A5", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C3", "echange", "C2", "D2", "B2", "D1", "D3", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C1", "C5", "B5", "D4", "C4", "C2", "C3", "B2", "D1", "D2", "D3", "E1", "A2", "A3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A2", "A3", "B1", "B3", "B2", "C3", "C2", "D2", "E1", "E2"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A5", "C4", "A4", "D4", "A3", "E3", "B2", "B1", "C1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B1", "D2", "A2", "A4", "B2", "B4", "C3", "C4", "C2", "D3", "E1", "E2"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D5", "D4", "E4", "E3", "C3", "C5", "B5", "C4", "B4", "D3", "C2", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C3", "echange", "B3", "C2", "B2", "C1", "A3", "B4", "A5", "B5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E4", "E1", "D5", "D1", "D4", "C1", "D3", "B2", "A2", "A3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C1", "E3", "B2", "D3", "B3", "C4", "A4", "A5", "B4", "B5"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D5", "B3", "E4", "E3", "D3", "D4", "C4", "C5", "B5", "C3", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C3", "echange", "D2", "C2", "E2", "D1", "D3", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D3", "echange", "C1", "D1", "D2", "C4", "C2", "E1", "E2", "C3", "B2", "A2", "A3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C1", "D3", "C2", "C4", "C3", "B4", "B3", "A4", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B5", "B4", "C4", "C3", "D3", "A5", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C2", "echange", "D2", "C3", "D1", "C1", "D3", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C1", "C4", "B2", "D3", "A3", "A4", "B4", "B3", "C3", "C2", "B5", "D2", "E1", "E2"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A5", "B3", "B4", "C3", "C4", "D3", "A4", "A3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "D4", "C4", "E3", "C3", "D3", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D1", "D4", "D2", "C4", "C3", "B4", "B3", "A5", "E3", "E4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B3", "echange", "C2", "B2", "C1", "B1", "C3", "B4", "A5", "B5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E5", "E4", "C3", "D4", "C2", "C5", "B5", "C4", "B4", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A4", "A5", "A3", "B5", "C3", "C4", "D2", "D4", "E3", "E4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D4", "echange", "A3", "C5", "B2", "E3", "E1", "D3", "D1", "C1", "C2"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C3", "echange", "A4", "C2", "B4", "C4", "B5", "C5", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A4", "A5", "A3", "B5", "C3", "C4", "D2", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E1", "D2", "E2", "C2", "D3", "A4", "D4", "C5", "D5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E5", "E1", "D3", "D1", "C4", "C1", "C3", "B2", "A2", "A3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C2", "echange", "C1", "D1", "C5", "B5", "C4", "B4", "B3", "C3"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D4", "echange", "B3", "D5", "C2", "E3", "E1", "D3", "D2", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C2", "echange", "B2", "D1", "A2", "C3", "B3", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C1", "E3", "C2", "D3", "B3", "C3", "B4", "A5", "B5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A2", "A5", "A3", "B4", "B1", "C4", "B3", "D4", "E3", "E4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E3", "E1", "E2", "D2", "A3", "A4", "B2", "B4", "C3", "C4", "D3", "B3", "C2", "D4", "E4", "D5", "E5", "B1", "C1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C4", "echange", "B3", "C3", "A3", "C2", "B2", "C1", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D3", "echange", "A3", "D2", "B3", "E1", "C3", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A3", "A5", "B3", "B4", "C3", "C4", "C2", "D4", "E3", "E4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C3", "echange", "B5", "A5", "B4", "A4", "C4", "B3", "A2", "C2", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A3", "A4", "B3", "B4", "C3", "C4", "C2", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D1", "E3", "C2", "D3", "B3", "C3", "B4", "A5", "B5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B1", "D3", "B2", "C4", "B3", "E3", "A4", "A5", "B4", "B5"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A4", "A5", "B3", "B4", "C2", "C4", "C3", "D4", "E3", "E4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C3", "echange", "D2", "C2", "D3", "C4", "E2", "C5", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C1", "C4", "C2", "D3", "B3", "B5", "A5", "A4", "B4"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B3", "echange", "B2", "A4", "C2", "A3", "A2", "C3", "D2", "E1", "E2"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "D3", "C4", "C3", "D4", "E2", "B4", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B3", "echange", "B4", "C2", "A5", "C3", "C4", "D3", "D4", "E3", "E4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "E3", "C4", "D3", "C3", "D2", "C2", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D4", "echange", "B3", "C5", "A3", "D3", "C2", "E2", "E1", "D1", "D2"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D3", "echange", "B3", "C4", "C2", "B5", "A4", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E2", "E1", "D3", "D2", "C4", "C3", "B5", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C4", "echange", "B3", "C3", "C2", "C5", "D2", "D3", "E2", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E4", "E1", "E5", "D1", "D4", "C2", "D3", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D1", "E3", "C2", "D3", "B3", "C3", "B4", "A5", "B5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D3", "echange", "B4", "D2", "C4", "D4", "A5", "C5", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B2", "echange", "C2", "B3", "C3", "B4", "D2", "C1", "A5", "B5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C1", "C5", "B5", "D4", "B4", "C4", "C3", "C2", "B3", "B2", "D1", "D2", "B1", "A3", "E1", "E2"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A3", "A5", "B3", "B5", "B2", "C4", "C3", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B5", "D3", "C4", "C3", "B4", "B3", "D4", "E3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A4", "A5", "A3", "B5", "B4", "C4", "D5", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C1", "B4", "B2", "A5", "C2", "C4", "D2", "D4", "E3", "E4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D3", "echange", "D4", "C4", "C5", "B5", "C2", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A2", "A5", "B1", "B5", "B2", "C4", "C2", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B3", "echange", "D2", "B4", "E2", "C2", "D3", "B5", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C1", "D3", "B2", "C4", "A3", "A5", "B3", "B5", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E3", "E2", "D4", "D3", "C5", "C4", "B5", "B4", "A4", "A5"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C3", "echange", "C4", "B4", "D4", "A5", "D2", "C2", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E2", "E1", "E3", "D1", "D4", "C1", "C5", "B2", "A2", "A3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B4", "echange", "D3", "B3", "C4", "B5", "C3", "B2", "B1", "C1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A3", "A4", "A2", "B4", "B3", "C3", "C4", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C1", "B4", "C2", "C4", "B3", "A5", "C3", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "B3", "C4", "C3", "D3", "A3", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D3", "echange", "B2", "E2", "E1", "D2", "D1", "D4", "C1", "A2", "A3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D1", "C2", "D2", "C3", "D3", "B3", "D4", "C5", "D5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C4", "echange", "C2", "D3", "D1", "E1", "D2", "E2", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B5", "B4", "C4", "C3", "D3", "D2", "E2", "E1", "A4", "A5"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C2", "echange", "A3", "C1", "B3", "C3", "B4", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "D3", "D4", "E2", "C4", "C3", "B4", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E5", "E4", "D3", "D5", "B5", "C4", "B4", "D4", "C3", "A2", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A1", "A4", "B1", "B4", "C3", "C4", "C1", "D4", "E3", "E4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C3", "echange", "D3", "C4", "E3", "B5", "D2", "C2", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C4", "echange", "C3", "B5", "D3", "B4", "B3", "D4", "E3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D4", "echange", "E3", "D3", "C2", "E2", "E1", "D2", "D1", "C3", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E1", "C4", "D2", "D3", "C3", "B4", "B3", "A4", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "A3", "D4", "B2", "D3", "C2", "E2", "E1", "D1", "D2"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B3", "echange", "D4", "B4", "C4", "A5", "C3", "C2", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D1", "B4", "C2", "C4", "B3", "A4", "D2", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A2", "A4", "B1", "B3", "B2", "C2", "D3", "D2", "E1", "E2"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "E3", "C4", "D3", "C3", "D2", "C2", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C1", "D3", "C2", "E3", "C3", "C4", "B4", "A5", "B5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C3", "echange", "B5", "A5", "B4", "A4", "C4", "B3", "D1", "E1", "D2", "E2", "D3", "C2", "C1", "B2", "B1", "E3", "D4", "E4", "D5", "E5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C2", "echange", "D2", "C3", "E2", "C4", "D1", "C1", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D2", "echange", "B3", "D3", "A4", "D1", "B4", "D4", "C5", "D5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C2", "echange", "D2", "C3", "D1", "C1", "E1", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B2", "echange", "A3", "B3", "A4", "B4", "D3", "A5", "B1", "C1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B2", "echange", "A3", "B3", "A4", "B4", "D3", "B5", "B1", "C1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B5", "D4", "B4", "E4", "B3", "C4", "B2", "B1", "C1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C4", "echange", "D2", "D3", "E1", "C3", "C2", "B3", "B2", "A2", "A3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C2", "echange", "A3", "C3", "B2", "C1", "B3", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D5", "C1", "D1", "D3", "E4", "E2", "D4", "C3", "C2", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D5", "C1", "D1", "D4", "E4", "E3", "D2", "C5", "A5", "B4", "A4", "B3", "A3", "C4", "A2", "A1", "B1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D5", "E3", "D4", "D3", "C4", "C3", "B4", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A5", "C2", "B4", "B3", "C3", "D2", "D3", "E1", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A5", "E3", "C3", "B4", "A4", "C4", "B3", "D3", "C2", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D2", "echange", "A3", "C3", "B2", "E1", "B3", "B4", "A5", "B5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C4", "echange", "A3", "C5", "B2", "C3", "C2", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D3", "echange", "C1", "E1", "B1", "E2", "E4", "D4", "C5", "D5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D5", "C2", "E4", "E2", "D2", "D3", "D4", "C3", "C4", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B4", "echange", "D2", "B3", "C2", "B2", "E2", "B1", "A5", "B5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D5", "C4", "D4", "B4", "D3", "C3", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A2", "A4", "B2", "B3", "B1", "C2", "D3", "D1", "E1", "D2", "E2", "C3", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C4", "echange", "B2", "C5", "A2", "C3", "C2", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A2", "A4", "B2", "B4", "B1", "C3", "C2", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E3", "E2", "D3", "D2", "D4", "C2", "C3", "B2", "A2", "A3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C1", "C3", "C2", "B3", "B2", "A3", "D2", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D3", "echange", "C3", "D2", "C4", "D4", "B4", "E1", "C5", "D5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D4", "echange", "B4", "E3", "E1", "D2", "D1", "D3", "C2", "C3", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D3", "echange", "E3", "D4", "C3", "D2", "B4", "D1", "C5", "D5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E3", "E1", "D4", "D1", "D3", "C1", "C5", "B2", "A2", "A3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E3", "E1", "E4", "D1", "D3", "C2", "C3", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C3", "echange", "D3", "C4", "D4", "C5", "E3", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E5", "E2", "C2", "D2", "C3", "D3", "C4", "D1", "C1", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A3", "A4", "A2", "B4", "B1", "C3", "C4", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A5", "A3", "C3", "B3", "C2", "B4", "C4", "B2", "C1", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "D4", "C4", "E4", "C3", "D3", "C2", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A5", "E3", "A4", "D3", "A3", "C3", "B2", "B1", "C1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C2", "echange", "C4", "B3", "B4", "D1", "A5", "D2", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D4", "echange", "C3", "E3", "E2", "D3", "D2", "A2", "A5", "B4", "B5", "C4", "A4", "B3", "C2", "B2", "C1", "B1", "C5", "D5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D1", "E3", "D2", "D3", "C3", "C4", "B4", "A5", "B5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "B2", "C4", "C2", "C3", "D2", "D3", "E1", "A2", "A3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B5", "B3", "C4", "A3", "D3", "C2", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E1", "E3", "D2", "D4", "D3", "C4", "C3", "B4", "A4", "A5"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D5", "B3", "E4", "E3", "D3", "D4", "E2", "C4", "C3", "B4", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E5", "E1", "C4", "C3", "D2", "D1", "D3", "C2", "B5", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "B2", "C4", "A3", "C3", "C2", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A4", "A5", "A3", "B5", "C3", "C5", "C4", "D5", "E4", "E5"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A3", "A4", "B2", "B3", "C1", "C2", "D3", "D1", "E1", "D2", "E2", "C3", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D2", "echange", "C5", "B5", "D4", "C4", "D3", "C3", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D2", "echange", "C1", "E1", "D4", "C3", "E4", "B4", "A5", "B5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A1", "A2", "C2", "B1", "D1", "B2", "B3", "C5", "B5", "B4", "C3", "C4", "A4", "A5", "D3", "D4", "E3", "E4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B2", "echange", "C4", "A3", "A4", "B4", "B3", "C3", "C2", "D2", "D1", "E1", "A5", "B5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "C4", "D4", "B5", "D3", "C3", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A3", "A5", "A2", "B4", "B1", "C4", "B3", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C4", "echange", "E3", "D3", "D4", "C5", "E2", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "C4", "D4", "B5", "D3", "C3", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E4", "E2", "E5", "D2", "E3", "C2", "D3", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E4", "E2", "D5", "D2", "D4", "C3", "C4", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C2", "echange", "B4", "C1", "C3", "B3", "A4", "D2", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D2", "echange", "C4", "D3", "D4", "C3", "B4", "D1", "E4", "A4", "A5"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B1", "B3", "B2", "A4", "C2", "C3", "D2", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "D4", "C4", "D3", "C3", "E3", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E4", "E3", "D4", "D3", "D5", "C3", "C4", "B4", "A4", "A5"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A4", "A5", "B4", "B5", "B3", "C5", "C4", "D4", "E3", "E4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D2", "echange", "C4", "C3", "B4", "D3", "D4", "B3", "A4", "E3", "E4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A4", "A5", "B4", "B5", "B3", "C4", "C5", "D4", "E3", "E4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B5", "D3", "B4", "E3", "C3", "D2", "C2", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C3", "echange", "E2", "C2", "D3", "C4", "D4", "C5", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D5", "B4", "E4", "E3", "D4", "D3", "C4", "C3", "A4", "A5"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A3", "A4", "B2", "B3", "C2", "C3", "C1", "D3", "E2", "E3"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B3", "echange", "D3", "B2", "C3", "B4", "C4", "A5", "B1", "C1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D2", "echange", "B3", "D3", "A4", "D1", "C3", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D5", "E3", "D4", "D3", "C4", "C3", "B4", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D5", "D2", "D4", "E2", "C4", "C2", "C3", "B3", "A3", "A4"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C2", "echange", "A3", "C1", "B3", "C3", "B4", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["A1", "A4", "C2", "B3", "C3", "B4", "C4", "B2", "D1", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "C1", "D1", "B2", "C2", "C3", "D2", "D3", "B3", "E2", "B4", "C4", "A5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["D4", "echange", "B4", "D3", "C3", "D2", "C2", "E1", "C5", "D5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["E5", "E1", "B3", "D1", "C2", "C1", "B2", "B1", "A1", "A2"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C2", "echange", "B2", "C1", "B3", "C3", "A3", "B4", "A5", "B5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B5", "E3", "C4", "D3", "C3", "D2", "C2", "C1", "D1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C4", "echange", "A3", "D3", "B2", "D2", "C2", "D1", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C2", "echange", "B2", "D1", "A3", "B3", "D3", "B4", "A5", "B5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["B1", "C2", "B2", "B3", "A3", "A4", "B4", "D2", "E1", "E2"], "gagnant": "bleu", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C3", "echange", "D1", "E1", "D2", "E2", "C2", "D3", "B4", "C4", "B5", "C5"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
+{"taille": 5, "coups": ["C5", "C4", "D4", "B5", "D3", "C3", "D2", "D1", "E1"], "gagnant": "rouge", "joueurs": ["regles", "regles"]}
